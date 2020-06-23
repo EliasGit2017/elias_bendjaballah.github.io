@@ -8,15 +8,15 @@ const Index = () => (
     <article className="post" id="index">
       <header>
         <div className="title">
-          <h2><Link to="/">About this site</Link></h2>
-          <p>A beautiful, responsive, react app written with modern Javascript.</p>
+          <h2><Link to="/">Personnal academic journal</Link></h2>
+          <p>You can find many informations about me, my work and some other more (or less) usefull things.</p>
         </div>
       </header>
-      <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
-        or you can check out my {' '}
+      <p> Welcome to my academic journal, feel free to read about me <Link to="/about">here</Link>,
+        or check any of my work, passion and even shenanigans {' '}
         <Link to="/resume">resume</Link>, {' '}
         <Link to="/projects">projects</Link>, {' '}
-        view <Link to="/stats">site statistics</Link>, {' '}
+        {/* view <Link to="/stats">site statistics</Link>, {' '} */}
         or <Link to="/contact">contact</Link> me.
       </p>
       <p> Source available <a href="https://github.com/mldangelo/personal-site">here</a>.</p>

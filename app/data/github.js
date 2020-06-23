@@ -14,7 +14,7 @@ export const githubKeys = [
 
 // TODO To be provided by an API
 const data = [
-  {
+  /* {
     label: 'Stars this repository has on github',
     key: 'stargazers_count',
     value: '0',
@@ -47,12 +47,12 @@ const data = [
     key: 'pushed_at',
     value: dayjs().format('MMMM D, YYYY'),
     link: 'https://github.com/mldangelo/personal-site/commits',
-  },
+  }, */
   { /* find . | grep ".js" | grep -vE ".min.js|node_modules|.git|.json" |
     xargs -I file cat file | wc -l */
     label: 'Lines of Javascript powering this website',
-    value: '2625',
-    link: 'https://github.com/mldangelo/personal-site/graphs/contributors',
+    value: 'GUESS or ask google',
+    link: 'https://google.com',
   },
 ];
 

@@ -1,15 +1,15 @@
 const positions = [{
-  company: 'Arthena',
-  position: 'Co-founder, C.T.O.',
-  link: 'https://arthena.com',
-  daterange: 'January 2014 - Present',
+  company: 'Mathematics tutor',
+  /* position: 'Founder, C.E.O.', */
+  link: 'https://azbendjaballah.com',
+  daterange: 'January 2017 - June 2019',
   points: [
-    'Deployed quantitative strategies to predict the value of fine art in various pricing contexts.',
-    'Built production, on-line, end-to-end optimized machine learning pipelines with Pandas, Numpy, Scikit, Tensorflow, Dagster, Postgres, etc. on GCP with Kubernetes.',
-    'Designed micro-service architecture around: data collection, data integrity, feature engineering, research, strategy, backtesting, deployment, and reporting.',
-    'YC Alumn. Worked on everything. Built a 16-person team. Operated company for 6+ years.',
+    'Gave mathematics lectures to students in high school.',
+    'Helped them with their homework and worked on improving their grades through a constant and supportive work.',
+    'Tried to show them the importance of fondamental science in our fast moving world.',
+    'Worked with some students to prepare French national exams (Baccalauréat and Brevet des Collèges).',
   ],
-}, {
+}/* , {
   company: 'Skeptical Investments',
   position: 'Co-founder',
   link: 'http://skepticalinvestments.biz',
@@ -95,7 +95,7 @@ const positions = [{
     'Coauthored grant to build a multi-spectral imaging satellite as part of the AFRL University Nanosatellite Program.',
     'Lead a team of 60 students through satellite development life cycle. Served as a technical expert, acquired intimate working knowledge of satellite subsystems.  Solicited funding through NASA, AFOSR, and several corporate sponsors.',
   ],
-},
+} */,
 ];
 
 export default positions;
