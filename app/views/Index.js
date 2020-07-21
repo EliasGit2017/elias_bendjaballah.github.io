@@ -8,8 +8,8 @@ const Index = () => (
     <article className="post" id="index">
       <header>
         <div className="title">
-          <h2><Link to="/">Personnal academic journal</Link></h2>
-          <p>You can find many informations about me, my work and some other more (or less) usefull things.</p>
+          <h2><Link to="/">Personal academic journal</Link></h2>
+          <p>Where you can find some informations about me, my work and some other more (or less) usefull things.</p>
         </div>
       </header>
       <p> Welcome to my academic journal, feel free to read about me <Link to="/about">here</Link>,

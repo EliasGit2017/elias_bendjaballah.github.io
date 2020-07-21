@@ -1,7 +1,7 @@
 const positions = [{
   company: 'Mathematics tutor',
   /* position: 'Founder, C.E.O.', */
-  link: 'https://azbendjaballah.com',
+  link: 'https://eliasgit2017.github.io/elias_bendjaballah.github.io/',
   daterange: 'January 2017 - June 2019',
   points: [
     'Gave mathematics lectures to students in high school.',

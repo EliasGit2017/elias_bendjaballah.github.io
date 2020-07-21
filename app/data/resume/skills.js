@@ -13,18 +13,18 @@ const skills = [
   },
   {
     title: 'C',
-    competency: 4,
+    competency: 5,
     category: ['Languages', 'C', 'Data Structures', 'Algorithms'],
   },{
   title: 'Javascript',
   competency: 2,
   category: ['Web Development', 'Languages', 'Javascript'],
 },
-{
+/* {
   title: 'Node.JS',
   competency: 2,
   category: ['Web Development', 'Javascript'],
-},
+}, */
 {
   title: 'React',
   competency: 2,
@@ -40,11 +40,11 @@ const skills = [
   competency: 4,
   category: ['Web Development', 'Tools'],
 }, */
-{
+/* {
   title: 'Heroku',
   competency: 2,
   category: ['Web Development', 'Tools'],
-},
+}, */
 {
   title: 'MongoDB',
   competency: 3,
@@ -87,7 +87,7 @@ const skills = [
 },
 {
   title: 'Git/Github',
-  competency: 3,
+  competency: 4,
   category: ['Tools'],
 },
 /* {
@@ -116,8 +116,8 @@ const skills = [
   category: ['Data Science', 'Python'],
 },
 {
-  title: 'Jupyter',
-  competency: 4,
+  title: 'Jupyter/JupyterLab',
+  competency: 5,
   category: ['Data Science', 'Python'],
 },
 /* {
@@ -127,7 +127,7 @@ const skills = [
 }, */
 {
   title: 'HTML + CSS',
-  competency: 2,
+  competency: 3,
   category: ['Web Development', 'Languages'],
 },
 {

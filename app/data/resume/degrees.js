@@ -6,7 +6,7 @@ const degrees = [
     year: 2016,
   }, */ {
     school: 'Sorbonne Université',
-    degree: 'B.S. Computer Science',
+    degree: 'B.S. Computer Science, with high honours',
     link: 'https://www.sorbonne-universite.fr/',
     year: 2020,
   },
