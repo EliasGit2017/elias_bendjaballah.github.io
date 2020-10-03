@@ -26,7 +26,7 @@ const skills = [
   category: ['Web Development', 'Javascript'],
 }, */
 {
-  title: 'React',
+  title: 'React/Material-ui',
   competency: 2,
   category: ['Web Development', 'Javascript'],
 },
@@ -116,9 +116,9 @@ const skills = [
   category: ['Data Science', 'Python'],
 },
 {
-  title: 'Jupyter/JupyterLab',
+  title: 'Jupyter/JupyterLab/Clojupyter',
   competency: 5,
-  category: ['Data Science', 'Python'],
+  category: ['Data Science', 'Python', 'Clojure'],
 },
 /* {
   title: 'Typescript',
@@ -133,7 +133,7 @@ const skills = [
 {
   title: 'Python',
   competency: 5,
-  category: ['Languages', 'Python', 'Algorithms'],
+  category: ['Languages', 'Python', 'Algorithms', 'Object Oriented Programming'],
 },
 /* {
   title: 'C++',
@@ -170,7 +170,11 @@ const skills = [
   competency: 2,
   category: ['Data Engineering', 'Data Science', 'Python'],
 },
-
+{
+  title: 'OpenCV',
+  competency: 2,
+  category: ['Visual Computing', 'Python'],
+},
 /* {
   title: 'Hadoop',
   competency: 2,

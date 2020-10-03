@@ -1,6 +1,16 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Tutoring Sessions for LU1IN001',
+    subtitle: 'Fundamentals of programming in python',
+    link: 'https://github.com/EliasGit2017/Tutorat_LU1IN001',
+    image: `${BASE_PATH}/images/projects/Su2018.jpg`,
+    date: '2020-10-05',
+    desc: 'Jupyter notebooks to help freshmen students understand the basics of programming. '
+      + 'Python, Basic Data Structures, '
+      + 'Beginner, '
+      + 'Jupyter notebooks, ',
+  }, {
     title: 'Alignment of DNA sequences',
     subtitle: 'Main Project for the LU3IN003 Algorithmics course at Sorbonne Université',
     link: 'https://github.com/EliasGit2017/Projet_LU3IN003_Algorithmique',

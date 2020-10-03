@@ -12,8 +12,9 @@ const Index = () => (
           <p>Where you can find some informations about me, my work and some other more (or less) usefull things.</p>
         </div>
       </header>
+      <center>Θα προτιμούσα να πεθάνω στα πόδια μου παρά να ζήσω στα γόνατά μου</center>
       <p> Welcome to my academic journal, feel free to read about me <Link to="/about">here</Link>,
-        or check any of my work, passion and even shenanigans {' '}
+        or check any of my work {' '}
         <Link to="/resume">resume</Link>, {' '}
         <Link to="/projects">projects</Link>, {' '}
         {/* view <Link to="/stats">site statistics</Link>, {' '} */}
