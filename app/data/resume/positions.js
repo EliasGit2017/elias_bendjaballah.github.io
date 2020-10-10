@@ -6,7 +6,7 @@ const positions = [{
   points: [
     'Helped some students understand the basics of programming for the LU1IN001 course at Sorbonne University.',
     'Python 3 programming concepts and data structures initiation.',
-    'Trained some students to help them prepare for the exam ',
+    'Trained some students to help them prepare for the exam.',
   ],
 }, 
   {
