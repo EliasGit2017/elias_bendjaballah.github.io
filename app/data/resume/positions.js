@@ -1,4 +1,15 @@
 const positions = [{
+  company: 'Sorbonne University',
+  position: 'Computer Science Tutor',
+  link: 'https://github.com/EliasGit2017/Tutorat_LU1IN001',
+  daterange: 'October 2020 - December 2020',
+  points: [
+    'Helped some students understand the basics of programming for the LU1IN001 course at Sorbonne University.',
+    'Python 3 programming concepts and data structures initiation.',
+    'Trained some students to help them prepare for the exam ',
+  ],
+}, 
+  {
   company: 'Mathematics tutor',
   /* position: 'Founder, C.E.O.', */
   link: 'https://eliasgit2017.github.io/elias_bendjaballah.github.io/',
