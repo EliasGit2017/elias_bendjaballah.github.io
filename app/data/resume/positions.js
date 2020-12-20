@@ -4,9 +4,9 @@ const positions = [{
   link: 'https://github.com/EliasGit2017/Tutorat_LU1IN001',
   daterange: 'October 2020 - December 2020',
   points: [
-    'Helped some students understand the basics of programming for the LU1IN001 course at Sorbonne University.',
-    'Python 3 programming concepts and data structures initiation.',
-    'Trained some students to help them prepare for the exam.',
+    'Helped freshmen students understand the basics of programming for the LU1IN001 course at Sorbonne University.',
+    'Python 3 programming concepts and data structures initiation with an emphasis on problem solving',
+    'Trained students and helped them prepare for the exam.',
   ],
 }, 
   {
@@ -17,8 +17,8 @@ const positions = [{
   points: [
     'Gave mathematics lectures to students in high school.',
     'Helped them with their homework and worked on improving their grades through a constant and supportive work.',
-    'Tried to show them the importance of fondamental science in our fast moving world.',
-    'Worked with some students to prepare French national exams (Baccalauréat and Brevet des Collèges).',
+    'Made them understand the importance of fondamental science in our fast moving world.',
+    'Worked with students to prepare French national exams (Baccalauréat and Brevet des Collèges).',
   ],
 }/* , {
   company: 'Skeptical Investments',
